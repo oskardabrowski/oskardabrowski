@@ -1,4 +1,7 @@
-### Hi there 👋
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **oskardabrowski/oskardabrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
