@@ -1,4 +1,3 @@
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 ![Portfolio image](./Portfolio.svg)
 
 <!-- ### Hi there 👋 -->
