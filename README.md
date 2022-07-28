@@ -1,4 +1,4 @@
-![Portfolio image](./Portfolio3.svg)
+![Portfolio image](./PersonalRepoImage.svg)
 
 <!-- ### Hi there 👋 -->
 
