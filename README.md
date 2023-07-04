@@ -1,6 +1,6 @@
 ![Portfolio image](./PersonalRepoImage.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskardabrowski)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskardabrowski&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
 
